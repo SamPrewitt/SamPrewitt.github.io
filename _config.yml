@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: Cannondale Jekyll
-description: The Jekyll Carbon 29 2 is Cannondale's top of the line enduro bike.
+description: The Jekyll Carbon 29 2 is Cannondale's top of the line trail bike.
 author: "Sam Prewitt"
 version=: 0.11
 logo: C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png
 
-show_downloads: false
+show_downloads: true
