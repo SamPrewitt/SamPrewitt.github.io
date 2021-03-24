@@ -1,4 +1,6 @@
-# Will this work
+# What is Stick Fight?
 
 
-<prewittsr@appstate.edu>
+
+
+For questions email: <prewittsr@appstate.edu>
