@@ -1,7 +1,12 @@
-title: Stick Fight Documentation
+title:
 description: This is documentation on my favorite game Stick Fight. 
 author: "Sam Prewitt"
 version=: 0.1
-
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 theme: jekyll-theme-minimal
