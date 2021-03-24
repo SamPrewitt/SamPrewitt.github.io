@@ -3,10 +3,10 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 
 ## Table of Contents
     [Parts](#parts)
-    [Gemeni Suspension](#gemenisuspension)
+    [Gemeni Suspension](#gemeni-suspension)
     [Sizes](#sizes)
-    [Intended Terrain](#intended_terrain)
-     [How to Order](#howtoorder)
+    [Intended Terrain](#intended-terrain)
+    [How to Order](#how-to-order)
 
 ### Parts
 * Fox 36 forks
