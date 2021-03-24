@@ -1,7 +1,7 @@
 # Welcome to the Bike Guide
 The goal of this page is to explain the parts, frame geometry, and best uses of the Jekyll Carbon 29 2 trail bike. 
 
-## Parts
+### Parts
 - Fox 36 forks
 - 
 
