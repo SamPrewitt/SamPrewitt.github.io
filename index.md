@@ -1,4 +1,4 @@
-# Introduction
+# Welcome to the Bike Guide
 This is a guide for the Cannondale Jekyll Carbon 29 2. 
 
 
