@@ -9,7 +9,9 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 5. [How to Order](#how-to-order)  
 6. [Sponsored Riders](#sponsored-riders)
 7. [Testing push](#not-a-header)
-
+  
+![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
+  
 ### Parts
 * Fox 36 forks
 * Deore gearset
