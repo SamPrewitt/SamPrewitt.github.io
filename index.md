@@ -3,8 +3,8 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 
 ### Parts
 > Fox 36 forks
-1. Deore gearset
-2. 
+> Deore gearset
+>
 ### Gemeni Suspension
 
 ### Sizes
