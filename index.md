@@ -12,11 +12,12 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
 ### Parts
-* Fox 36 forks
-* Deore gearset
-* just list main parts
-*
-*
+* Fox Float Performance 36 Fork 
+* Fox Float Factory DPX2 EVOL Gemini shock
+* SRAM X01/GX Eagle 12-speed drivetrain
+* SRAM Code R hydro disc brakes
+* Stan's NoTubes Flow MK3 rims
+* Maxxis Assegai tires (front / rear)
   
 ### Gemeni Suspension
   
