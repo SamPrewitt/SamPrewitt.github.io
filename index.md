@@ -2,7 +2,11 @@
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
 
 ## Table of Contents
-[Parts](#parts)
+    [Parts](#parts)
+    [Gemeni Suspension](#gemenisuspension)
+    [Sizes](#sizes)
+    [Intended Terrain](#intended_terrain)
+     [How to Order](#howtoorder)
 
 ### Parts
 * Fox 36 forks
