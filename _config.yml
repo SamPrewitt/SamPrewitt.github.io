@@ -1,7 +1,8 @@
-title: Canyon Spectral 29 CF 9
-description: The Specraf is a full suspension enduro bike built to race in the Enduro World Series. 
+theme: jekyll-theme-minimal
+title: Canyon Spectral CF 9
+description: The Spectral CF 9 is Canyon's full suspension enduro bike built to race in the Enduro World Series. 
 author: "Sam Prewitt"
 version=: 0.11
-logo: 
+logo: full_2021_spectral-cf-29-9-us_2831_rd-bk_P5.png
 
-theme: jekyll-theme-minimal
+show_downloads: true
