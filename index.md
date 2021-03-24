@@ -1,18 +1,19 @@
-# Welcome to the Bike Guide
+# **Welcome to the Bike Guide**
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
 
 ### Parts
-- Fox 36 forks
-
-## Gemeni Suspension
+> Fox 36 forks
+1. Deore gearset
+2. 
+### Gemeni Suspension
 
 ### Sizes
 
-## Intended Terrain
+### Intended Terrain
 
-## Sponsored Riders
+### Sponsored Riders
 
 
 
 For questions email: <prewittsr@appstate.edu>
-Or go to [Cannondale}<https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm>
+or visit [Cannondale]{https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
