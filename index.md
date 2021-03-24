@@ -14,19 +14,19 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 ### Parts
 * Fox 36 forks
 * Deore gearset
-*
+* just list main parts
 *
 *
   
 ### Gemeni Suspension
   
-
+##### explain how gemeni suspenison works and is unique
 
   
   
 ### Sizes
   
-  
+  - obvious
 
 
 
