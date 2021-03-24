@@ -5,4 +5,4 @@ author: "Sam Prewitt"
 version=: 0.11
 logo: C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png
 
-show_downloads: true
+show_downloads: false
