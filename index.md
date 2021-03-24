@@ -2,9 +2,10 @@
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
 
 ### Parts
-> Fox 36 forks
-> Deore gearset
->
+* Fox 36 forks
+* Deore gearset
+*
+
 ### Gemeni Suspension
 
 ### Sizes
