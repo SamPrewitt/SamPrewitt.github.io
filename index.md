@@ -3,6 +3,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 
 ## Table of Contents
 > [Parts](#parts)
+> 
 > [Gemeni Suspension](#gemeni-suspension)
     [Sizes](#sizes)
     [Intended Terrain](#intended-terrain)
