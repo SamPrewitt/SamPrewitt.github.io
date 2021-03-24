@@ -14,30 +14,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 *
 *
 *
-.  
-.  
-..  
-.  
-.  
-.  
-..  
-.  
-.  
-.  
-..  
-.  
-.  
-.  
-..  
-.  
-.  
-.  
-..  
-.  
-.  
-.  
-..  
-.  
+
 ### Gemeni Suspension
 
 
