@@ -1,6 +1,5 @@
 # Welcome to the Bike Guide
-This is a guide for the Cannondale Jekyll Carbon 29 2. 
-
+The goal of this page is to explain the parts and geometry of the Jekyll Carbon 29 2. 
 
 
 For questions email: <prewittsr@appstate.edu>
