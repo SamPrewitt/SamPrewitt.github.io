@@ -14,10 +14,10 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 ### Parts
 >* Fox Float Performance 36 Fork 
 >* Fox Float Factory DPX2 EVOL Gemini shock
-> SRAM X01/GX Eagle 12-speed drivetrain
-* SRAM Code R hydro disc brakes
-* Stan's NoTubes Flow MK3 rims
-> Maxxis Assegai tires (front / rear)
+>* SRAM X01/GX Eagle 12-speed drivetrain
+>* SRAM Code R hydro disc brakes
+>* Stan's NoTubes Flow MK3 rims
+>* Maxxis Assegai tires (front / rear)
   
 ### Gemeni Suspension
   
