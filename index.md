@@ -8,7 +8,6 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 4. [Intended Terrain](#intended-terrain)  
 5. [How to Order](#how-to-order)  
 6. [Sponsored Riders](#sponsored-riders)
-7. [Testing push](#not-a-header)
   
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
@@ -18,30 +17,31 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 *
 *
 *
-
+  
 ### Gemeni Suspension
+  
 
 
-
-
-
+  
+  
 ### Sizes
-
-
+  
+  
 
 
 
 ### Intended Terrain
-
+  
+    
 ### How to Order
-
-
+  
+  
 
 ### Sponsored Riders
 
+  
 
-
-
+  
 
 For questions email: <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
