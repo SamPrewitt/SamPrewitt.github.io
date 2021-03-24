@@ -3,4 +3,4 @@ description: This is documentation on my favorite game Stick Fight.
 author: "John Smith"
 layout: "foobar"
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
