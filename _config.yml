@@ -1,16 +1,5 @@
-title: NaN
-description: This is documentation on my favorite game Stick Fight. 
+title: Canyon Spectral 29 CF 9
+description: The Specraf is a full suspension enduro bike built to race in the Enduro World Series. 
 author: "Sam Prewitt"
-version=: 0.1
+version=: 0.11
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
