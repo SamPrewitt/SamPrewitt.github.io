@@ -3,3 +3,5 @@ description: The Specraf is a full suspension enduro bike built to race in the E
 author: "Sam Prewitt"
 version=: 0.11
 
+
+theme: jekyll-theme-minimal
