@@ -11,6 +11,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
   
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
+  
 ### Parts
 * BallisTec Carbon front triangle
 * SmartForm C1 Alloy swingarm
@@ -49,9 +50,6 @@ Mitch Ropelato
   
 ![](KeraLinn.jpg)
 Kera Linn  
-  
-  
-  
-  
+   
 For questions email: <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
