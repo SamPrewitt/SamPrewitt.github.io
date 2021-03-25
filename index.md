@@ -23,7 +23,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
   
 ### Gemeni Suspension
 The Gemeni rear shock allows riders to switch between "hustle" and "flow" modes. Hustle being 120mm of travel, Flow being 150mm. 
-
+  
   
   
 ### Sizes
@@ -34,8 +34,11 @@ The Jekyll is available in 4 sizes:
   * XLarge
   
   
+  
 ### Intended Terrain
 Trail bikes have between 120 and 150mm of suspension travel. Intended terrain could be anyting from local XC trails to the lift-assisted bike park. 
+    
+    
     
 ### How to Order
 >**Step 1:** Go to [Cannondale's website.](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
@@ -44,10 +47,11 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
 >**Step 3:** Call your local Cannondale dealer about buying options.
   
-  
+    
 ### Sponsored Riders
 ![](MitchRopelato.jpg) 
 >Mitch Ropelato  
+  
   
 ![](KeraLinn.jpg)
 >Kera Linn  
