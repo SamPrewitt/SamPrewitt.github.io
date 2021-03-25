@@ -45,7 +45,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
 >**Step 2:** Click "Check Retailers" and type your address
   
->**Step 3:** Call your local Cannondale dealer about buying options
+>**Step 3:** Call your local Cannondale dealer to discuss availability
   
  
 ### Sponsored Riders
