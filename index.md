@@ -38,11 +38,11 @@ The Jekyll is available in 4 sizes:
 Trail bikes have between 120 and 150mm of suspension travel. Intended terrain could be anyting from local XC trails to the lift-assisted bike park. 
     
 ### How to Order
->Step 1: Go to [Cannondale's website.](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
+>**Step 1:** Go to [Cannondale's website.](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
   
->Step 2: Click "Check Retailers" and type your address.
+>**Step 2:** Click "Check Retailers" and type your address.
   
->Step 3: Call your local Cannondale dealer about buying options.
+>**Step 3:** Call your local Cannondale dealer about buying options.
   
   
 ### Sponsored Riders
