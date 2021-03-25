@@ -22,7 +22,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 * Maxxis Assegai tires (front / rear)
   
 ### Gemeni Suspension
-The Gemeni rear shock allows riders to switch between "hustle" and "flow" modes. Hustle being 120mm of travel, Flow being 150mm. 
+The Gemeni rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
   
   
   
