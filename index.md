@@ -58,7 +58,6 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
     
 \
 \
-\
   
   
 __________________________________________________ 
