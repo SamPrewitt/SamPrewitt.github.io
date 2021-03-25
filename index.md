@@ -44,10 +44,13 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
   
 ### Sponsored Riders
-![](MitchRopelate.jpg) ![](KeraLinn.jpg)
-Mitch Ropelate & Kera Linn
+![](MitchRopelato.jpg) 
+Mitch Ropelato  
   
- 
+![](KeraLinn.jpg)
+Kera Linn  
+    
+  
  
 For questions email: <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
