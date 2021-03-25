@@ -22,29 +22,32 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 * Maxxis Assegai tires (front / rear)
   
 ### Gemeni Suspension
-  
-##### explain how gemeni suspenison works and is unique
+The Gemeni rear shock allows riders to switch between "hustle" and "flow" modes. Hustle being 120mm of travel, Flow being 150mm. 
 
   
   
 ### Sizes
+The Jekyll is available in 4 sizes:
+  * Small
+  * Medium
+  * Large
+  * XLarge
   
-  - obvious
-
-
-
+  
 ### Intended Terrain
-  
+Trail bikes have between 120 and 150mm of suspension travel. Intended terrain could be anyting from local XC trails to the lift-assisted bike park. 
     
 ### How to Order
+>Step 1: Go to [Cannondale's website.](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
+>Step 2: Click "Check Retailers" and type your address.
+>Step 3: Call your local Cannondale dealer about buying options.
   
   
-
 ### Sponsored Riders
-
+![](MitchRopelate.jpg) ![](KeraLinn.jpg)
+Mitch Ropelate & Kera Linn
   
-
-  
-
+ 
+ 
 For questions email: <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
