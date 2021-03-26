@@ -36,7 +36,7 @@ The Jekyll is available in 4 sizes:
   
   
 ### Intended Terrain
-Trail bikes have between 120 and 150mm of suspension travel. Intended terrain could be anything from local XC trails to a lift-assisted bike park. 
+Trail bikes have between 120 and 150mm of suspension travel. Intended terrain could be anything from local XC trails to a lift-assisted bike park. The Jekyll is capable of most green to double black diamond trails.  
 * Roots
 * Rock gardens
 * Rock rolls
