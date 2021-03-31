@@ -8,7 +8,6 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 4. [Intended Terrain](#intended-terrain)  
 5. [How to Order](#how-to-order)  
 6. [Sponsored Riders](#sponsored-riders)
-7. [Support](#for-questions-email-prewittsr@appstate.edu)
   
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
