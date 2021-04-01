@@ -73,13 +73,13 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 >[Kera Linn](https://www.pinkbike.com/news/getting-to-know-cannondales-new-enduro-rider-kera-linn.html?trk=rss)
 
 ### FAQ
-> How's the ride?  
+How's the ride?  
 * With 29in wheels and 150mm the Cannondale Jekyll 29 2 will roll over about any obsatcle. So on the mountain this bike's ride is fantastic but about anywhere else it would be less than ideal. 
 
-> Where can I find trails?  
+Where can I find trails?  
 * Download TrailForks on IOS or Android to be shown a map of local trails anywhere in the US or Canada.
 
-> What equipment do I need to safely ride?  
+What equipment do I need to safely ride?  
 * Most mountain bike trails only require a helmet, MIPS is recommended. At lift-assited bike parks riders should wear a full face helment and pads. 
 
 ### How to Contribute
