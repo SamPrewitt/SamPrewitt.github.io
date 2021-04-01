@@ -8,6 +8,9 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 4. [Intended Terrain](#intended-terrain)  
 5. [How to Order](#how-to-order)  
 6. [Sponsored Riders](#sponsored-riders)
+7. [How to Contribute](#how-to-contribute)
+8. [Licensing](#licensing)
+9. [Instrucitons for Use](#instructions-for-use)
   
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
@@ -24,17 +27,13 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 ### Gemeni Suspension
 The Gemeni rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
   
-  
-  
 ### Sizes
 The Jekyll is available in 4 sizes:
   * Small
   * Medium
   * Large
   * XLarge
-  
-  
-  
+   
 ### Intended Terrain
 Trail bikes have between 120 and 150mm of suspension travel. Intended terrain could be anything from local XC trails to a lift-assisted bike park. The Jekyll is capable of most green to double black diamond trails.  
 * Roots
@@ -44,8 +43,6 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 * Drops
 * etc. 
     
-    
-    
 ### How to Order
 >**Step 1:** Go to [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
   
@@ -53,7 +50,6 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
 >**Step 3:** Call your local Cannondale dealer to discuss availability
   
- 
 ### Sponsored Riders
 ![](MitchRopelato.jpg) 
 >[Mitch Ropelato](https://www.monsterenergy.com/sports/mountain-biking/mitch-ropelato) 
@@ -62,7 +58,14 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 ![](KeraLinn.jpg)
 >[Kera Linn](https://www.pinkbike.com/news/getting-to-know-cannondales-new-enduro-rider-kera-linn.html?trk=rss)
     
+### How to Contribute
+This page is open source. Commit changes as necessary.
+  
+### Licensing
+MIT License
 
-__________________________________________________ 
+### Instrucitons for Use
+
+
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
