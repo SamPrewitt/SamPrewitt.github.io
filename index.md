@@ -56,7 +56,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
    
 ![](SJ_pressure.jpg)  
 
-2. Seat Height
+2. Seat Height  
      * When suspension is set up properly the rider should adjust seat height. 
      * Seat height is based on the rider's leg being fully extended when pedaling. 
 3. Brakes
