@@ -51,7 +51,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 >**Step 3:** Call your local Cannondale dealer to discuss availability
   
 ### How to Use
-- Before useing the Jekyll a rider should make sure front and rear suspension meets has the proper PSI (pounds per square inch) for their weight. See figure below.  
+- Before useing the Jekyll a rider should make sure front and rear suspension meets has the proper PSI (pounds per square inch) for their weight. See Fox Air Pressure Chart below.  
    
 ![](SJ_pressure.jpg)  
 
