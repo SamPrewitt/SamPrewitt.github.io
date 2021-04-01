@@ -52,16 +52,16 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 >**Step 3:** Call your local Cannondale dealer to discuss availability
   
 ### How to Use
-1. Suspension PSI
+ 1. Suspension PSI
      * Before useing the Jekyll a rider should make sure front and rear suspension have the proper PSI (pounds per square inch) for their weight. 
      * See Fox Air Pressure Chart below.  
   
 ![](SJ_pressure.jpg)  
 
-2. Seat Height  
+ 2. Seat Height  
      * When suspension is set up properly the rider should adjust seat height. 
      * Seat height is based on the rider's leg being fully extended when pedaling. 
-3. Brakes
+ 3. Brakes
      * Pull both brakes and try to push the bike around. If it seems stable then you are ready to ride! 
      * If not, go to your local bike shop from [Step 3](#how-to-order) of *How to Order* and find one. 
  
@@ -76,16 +76,16 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 
 ### FAQ
 How's the ride?  
-* With 29in wheels and 150mm the Cannondale Jekyll 29 2 will roll over about any obsatcle. So on the mountain this bike's ride is fantastic but about anywhere else it would be less than ideal. 
+* With 29in wheels and 150mm the Cannondale Jekyll 29 2 will roll over about any obstacle. So on the mountain this bike's ride is fantastic! But for road or gravel biking, the Jekyll would not be ideal.
 
 Where can I find trails?  
-* Download TrailForks on IOS or Android to be shown a map of local trails anywhere in the US or Canada.
+* Download [TrailForks](https://www.trailforks.com/) on IOS or Android to be shown a map of local trails anywhere in the US or Canada.
 
 What equipment do I need to safely ride?  
-* Most mountain bike trails only require a helmet, MIPS is recommended. At lift-assited bike parks riders should wear a full face helment and pads. 
+* Most mountain bike trails only require a helmet, MIPS are the best. But, at lift-assited bike parks riders should wear a full face helment and full body pads. 
 
 ### How to Contribute
-This page is open source. Commit changes as necessary.
+This page is open source. Commit changes to the test branch as necessary.
   
 ### Licensing
 MIT License  
