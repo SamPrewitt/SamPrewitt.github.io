@@ -1,4 +1,4 @@
-# **Welcome to the Bike Guide**
+# **Intro to the Bike Guide**
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
 
 ## Table of Contents
@@ -10,6 +10,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 6. [Sponsored Riders](#sponsored-riders)
 7. [How to Contribute](#how-to-contribute)
 8. [Licensing](#licensing)
+9. [FAQ](#faq)
   
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
@@ -69,7 +70,17 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
 ![](KeraLinn.jpg)
 >[Kera Linn](https://www.pinkbike.com/news/getting-to-know-cannondales-new-enduro-rider-kera-linn.html?trk=rss)
-    
+
+### FAQ
+* How's the ride?
+With 29in wheels and 150mm the Cannondale Jekyll 29 2 will roll over about any obsatcle. So on the mountain this bike's ride is fantastic but about anywhere else it would be less than ideal. 
+
+* Where can I find trails?
+Download TrailForks on IOS or Android to be shown a map of local trails anywhere in the US or Canada.
+
+* What equipment do I need to safely ride?
+Most mountain bike trails only require a helmet, MIPS is recommended. At lift-assited bike parks riders should wear a full face helment and pads. 
+
 ### How to Contribute
 This page is open source. Commit changes as necessary.
   
