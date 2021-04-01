@@ -50,6 +50,10 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
 >**Step 3:** Call your local Cannondale dealer to discuss availability
   
+### How to Use
+Before useing the Jekyll a rider should make sure front and rear suspension meets has the proper PSI (pounds per square inch) for their weight. 
+
+
 ### Sponsored Riders
 ![](MitchRopelato.jpg) 
 >[Mitch Ropelato](https://www.monsterenergy.com/sports/mountain-biking/mitch-ropelato) 
@@ -62,10 +66,8 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 This page is open source. Commit changes as necessary.
   
 ### Licensing
-MIT License
-
-### Instrucitons for Use
-
-
+MIT License  
+  
+_______________________________________________
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
