@@ -51,13 +51,17 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 >**Step 3:** Call your local Cannondale dealer to discuss availability
   
 ### How to Use
-* Before useing the Jekyll a rider should make sure front and rear suspension meets has the proper PSI (pounds per square inch) for their weight. See Fox Air Pressure Chart below.  
+1. Suspension PSI
+     * Before useing the Jekyll a rider should make sure front and rear suspension meets has the proper PSI (pounds per square inch) for their weight. See Fox Air Pressure Chart below.  
    
 ![](SJ_pressure.jpg)  
 
-* When suspension is set up properly the rider should adjust seat height. 
+2. Seat Height
+     * When suspension is set up properly the rider should adjust seat height. 
      * Seat height is based on the rider's leg being fully extended when pedaling. 
-* Brakes are next. Squeeze and try to push the bike. If it seems stable then you are ready to ride! If not, go to your local bike shop from [Step 3](#how-to-order) of How to Order and find one. 
+3. Brakes
+     * Pull both brakes and try to push the bike around. If it seems stable then you are ready to ride! 
+     * If not, go to your local bike shop from [Step 3](#how-to-order) of *How to Order* and find one. 
  
 
 ### Sponsored Riders
