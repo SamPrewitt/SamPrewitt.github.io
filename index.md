@@ -52,7 +52,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
 ### How to Use
 Before useing the Jekyll a rider should make sure front and rear suspension meets has the proper PSI (pounds per square inch) for their weight. 
-![](SJ pressure.jpg)
+![](SJ_pressure.jpg)
 
 ### Sponsored Riders
 ![](MitchRopelato.jpg) 
