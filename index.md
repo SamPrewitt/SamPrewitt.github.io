@@ -10,7 +10,6 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 6. [Sponsored Riders](#sponsored-riders)
 7. [How to Contribute](#how-to-contribute)
 8. [Licensing](#licensing)
-9. [Instrucitons for Use](#instructions-for-use)
   
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
