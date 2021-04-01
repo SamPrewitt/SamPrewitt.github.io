@@ -83,7 +83,7 @@ What equipment do I need to safely ride?
 * Most mountain bike trails only require a helmet, MIPS are the best. But, at lift-assited bike parks riders should wear a full face helment and full body pads. 
 
 ### How to Contribute
-This page is open source. Commit changes to the test branch as necessary.
+This page is open source. Commit changes to the PROD_test branch as necessary.
   
 ### Licensing
 MIT License  
