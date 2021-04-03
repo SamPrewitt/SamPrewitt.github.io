@@ -86,7 +86,7 @@ What equipment do I need to safely ride?
 This page is open source. Commit changes to the test branch as necessary.
   
 ### Licensing
-MIT License. Cannondale is a registered Trademark of Dorel Industries. 
+Cannondale is a registered Trademark of Dorel Industries. This page may be used under the MIT License. 
   
 _______________________________________________
 For questions email <prewittsr@appstate.edu>
