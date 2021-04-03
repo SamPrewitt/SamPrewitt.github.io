@@ -3,7 +3,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 
 ## Table of Contents
 1. [Parts](#parts)  
-2. [Gemeni Suspension](#gemeni-suspension)  
+2. [Gemini Suspension](#gemini-suspension)  
 3. [Sizes](#sizes)  
 4. [Intended Terrain](#intended-terrain)  
 5. [How to Order](#how-to-order)  
@@ -25,8 +25,8 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 * Stan's NoTubes Flow MK3 rims
 * Maxxis Assegai tires (front / rear)
   
-### Gemeni Suspension
-The Gemeni rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
+### Gemini Suspension
+The Gemini rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
   
 ### Sizes
 The Jekyll is available in 4 sizes:
@@ -42,7 +42,6 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 * Rock rolls
 * Gap jumps
 * Drops
-* etc. 
     
 ### How to Order
 >**Step 1:** Go to [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
@@ -86,7 +85,7 @@ What equipment do I need to safely ride?
 This page is open source. Commit changes to the test branch as necessary.
   
 ### Licensing
-MIT License  
+MIT License. Cannondale is a registered Trademark of Dorel Industries. 
   
 _______________________________________________
 For questions email <prewittsr@appstate.edu>
