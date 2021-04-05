@@ -73,13 +73,13 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 
 ### FAQ
 How's the ride?  
-* With 29in wheels and 150mm the Cannondale Jekyll 29 2 will roll over about any obstacle. So on the mountain this bike's ride is fantastic! But for road or gravel biking, the Jekyll would not be ideal.
+* With 29in wheels and 150mm of suspension travel the Cannondale Jekyll 29 2 will roll over about any obstacle. So on the mountain this bike's ride is fantastic! However, for road or gravel biking, the Jekyll would not be ideal.
 
 Where can I find trails?  
 * Download [TrailForks](https://www.trailforks.com/) on IOS or Android to be shown a map of local trails anywhere in the US or Canada.
 
 What equipment do I need to safely ride?  
-* Most mountain bike trails only require a helmet, MIPS are the best. But, at lift-assited bike parks riders should wear a full face helment and full body pads. 
+* Most mountain bike trails only require a helmet, MIPS (Multi-directional Impact Protection System) is recommended. At lift-assited bike parks riders should wear a full face helment and full body pads. Call your local trail management organization for further information on riding safely.
 
 ### How to Contribute
 This page is open source. Commit changes to the test branch as necessary.
