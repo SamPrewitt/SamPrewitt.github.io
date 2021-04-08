@@ -1,7 +1,8 @@
 # **Intro to the Bike Guide**
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
 
-## Table of Contents
+## Table of Contents <img src="backToTop2.png" alt="BackToTop"
+	title="Back to top" width="75" height="50" />
 1. [Parts](#parts)  
 2. [Gemini Suspension](#gemini-suspension)  
 3. [Sizes](#sizes)  
