@@ -1,7 +1,7 @@
 # **Intro to the Bike Guide**
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
 
-## Table of Contents ^
+## Table of Contents
 1. [Parts](#parts)  
 2. [Gemini Suspension](#gemini-suspension)  
 3. [Sizes](#sizes)  
@@ -86,6 +86,7 @@ This page is open source. Commit changes to the test branch as necessary.
 ### Licensing
 Cannondale is a registered Trademark of Dorel Industries. This page may be used under the MIT License. 
   
+>[Back to top](#table_of_contents)
 _______________________________________________
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
