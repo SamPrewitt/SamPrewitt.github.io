@@ -12,7 +12,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 8. [How to Contribute](#how-to-contribute)
 9. [Licensing](#licensing)
 
-![](SMBack to top.jpg) 
+![](SMBacktotop.jpg) 
 
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
