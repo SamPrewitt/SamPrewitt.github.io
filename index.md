@@ -86,7 +86,7 @@ This page is open source. Commit changes to the test branch as necessary.
 ### Licensing
 Cannondale is a registered Trademark of Dorel Industries. This page may be used under the MIT License. 
   
->[Back to top](#table_of_contents)
+>[Back to top](#table-of-contents)
 _______________________________________________
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
