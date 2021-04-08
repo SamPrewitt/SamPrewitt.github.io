@@ -13,7 +13,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 9. [Licensing](#licensing)
 
 <img src="backToTop2.png" alt="BackToTop"
-	title="Back to top" width="150" height="100" />
+	title="Back to top" width="100" height="50" />
 
 ![](backToTop2.png)
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
