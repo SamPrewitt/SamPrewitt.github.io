@@ -34,7 +34,7 @@ The Gemini rear shock allows riders to switch between "hustle" and "flow" modes.
 <a href="#table-of-contents">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
 </a>
-![](zxTgkLXiA.png)
+
 ### Sizes
 The Jekyll is available in 4 sizes:
   * Small
@@ -69,7 +69,9 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
      * Pull both brakes and try to push the bike around. If it seems stable then you are ready to ride! 
      * If not, go to your local bike shop from [Step 3](#how-to-order) of *How to Order* and find one. 
  
-
+<a href="#table-of-contents">
+  <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
+</a>
 ### Sponsored Riders
 ![](MitchRopelato.jpg) 
 >[Mitch Ropelato](https://www.monsterenergy.com/sports/mountain-biking/mitch-ropelato) 
@@ -94,7 +96,9 @@ This page is open source. Commit changes to the test branch as necessary.
 ### Licensing
 Cannondale is a registered Trademark of Dorel Industries. This page may be used under the MIT License. 
   
->[Back to top](#intro-to-the-bike-guide)
+<a href="#table-of-contents">
+  <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
+</a>
 _______________________________________________
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
