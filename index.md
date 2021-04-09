@@ -1,5 +1,6 @@
 # **Intro to the Bike Guide**
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
+Clicking the title, Jekyll Carbon 29 2, on the left column will bring you back to the top of this page. 
 
 ## Table of Contents
 
