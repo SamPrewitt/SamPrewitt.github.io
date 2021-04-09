@@ -101,7 +101,7 @@ _______________________________________________
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)  
   
-  <a href="#table-of-contents">
+  <a href="#intro-to-the-bike-guide">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
 </a>  
   
