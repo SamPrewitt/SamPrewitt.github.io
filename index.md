@@ -30,7 +30,7 @@ Part descriptions can be found [here](https://www.cannondale.com/en-it/bikes/mou
 ### Gemini Suspension
 The Gemini rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
 
-<a href="#table-of-contents">
+<a href="#intro-to-the-bike-guide">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
 </a>
 
@@ -68,7 +68,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
      * Pull both brakes and try to push the bike around. If it seems stable then you are ready to ride! 
      * If not, go to your local bike shop from [Step 3](#how-to-order) of *How to Order* and find one. 
  
-<a href="#table-of-contents">
+<a href="#intro-to-the-bike-guide">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
 </a>  
   
