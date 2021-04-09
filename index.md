@@ -32,7 +32,7 @@ The Gemini rear shock allows riders to switch between "hustle" and "flow" modes.
 #### [Back to top](#table-of-contents)
 <img src="zxTgkLXiA.png" width="35" height="35" alt="Back to Top">
 <a href="https://samprewitt.github.io/">
-  <img src="zxTgkLXiA.png" alt="Back to Top" style="width:35px;height:35px;">
+  <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
 </a>
 ![](zxTgkLXiA.png)
 ### Sizes
