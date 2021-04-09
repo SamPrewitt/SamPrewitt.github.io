@@ -15,7 +15,8 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
-### Parts [TC](#table-of-contents)
+### Parts
+[TC](#table-of-contents)
 * BallisTec Carbon front triangle
 * SmartForm C1 Alloy swingarm
 * Fox Float Performance 36 Fork 
