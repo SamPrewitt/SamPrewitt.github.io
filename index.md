@@ -1,6 +1,5 @@
 # **Intro to the Bike Guide**
 The goal of this page is to explain the parts, frame geometry, and best uses for the Jekyll Carbon 29 2 trail bike. 
-Clicking the title, Jekyll Carbon 29 2, on the left column will bring you back to the top of this page. 
 
 ## Table of Contents
 
@@ -30,7 +29,8 @@ Part descriptions can be found [here](https://www.cannondale.com/en-it/bikes/mou
   
 ### Gemini Suspension
 The Gemini rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
-  
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+#### [Back to top](#table-of-contents)
 ### Sizes
 The Jekyll is available in 4 sizes:
   * Small
