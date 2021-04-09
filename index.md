@@ -16,7 +16,6 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 ![](C20_C21200M_Jekyll_CrbAl_2_CAS_PD.png)
   
 ### Parts
-<p>Check out <a href="https://www.freecodecamp.org/">freeCodeCamp</a>.</p>
 * BallisTec Carbon front triangle
 * SmartForm C1 Alloy swingarm
 * Fox Float Performance 36 Fork 
@@ -25,6 +24,8 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 * SRAM Code R hydro disc brakes
 * Stan's NoTubes Flow MK3 rims
 * Maxxis Assegai tires (front / rear)
+
+Part descriptions can be found [here](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm) under the Specs section. 
   
 ### Gemini Suspension
 The Gemini rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
