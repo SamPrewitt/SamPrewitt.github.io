@@ -63,8 +63,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
   
  **Step 2:** Adjust Seat Height  
  * When suspension is set up properly the rider should adjust seat height.
-    #### a. 
-    Unlatch seat post clamp.
+    ###### a. Unlatch seat post clamp.
           * b. Stand over bike frame.
           * c. Place a foot on a peddal and fully extend leg.
           * d. Pull the seat post up far enough to comfortably sit .
