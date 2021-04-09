@@ -37,7 +37,9 @@ The Jekyll is available in 4 sizes:
   * Medium
   * Large
   * XLarge  
-
+   
+Size descriptions can be found [here](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm) under the Specs section.     
+  
 <a href="#intro-to-the-bike-guide">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
 </a>  
