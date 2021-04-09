@@ -27,7 +27,7 @@ The goal of this page is to explain the parts, frame geometry, and best uses for
 
 Part descriptions can be found [here](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm) under the Specs section. 
   
-### Gemini Suspension <a href="#into-to-the-bike-guide"><img src="backtoTOp.png" alt="Back to Top" width="35" height="35" alt="Back to Top"></a>
+### Gemini Suspension
 The Gemini rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
 
 <a href="#table-of-contents">
@@ -70,7 +70,8 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
  
 <a href="#table-of-contents">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
-</a>
+</a>  
+  
 ### Sponsored Riders
 ![](MitchRopelato.jpg) 
 >[Mitch Ropelato](https://www.monsterenergy.com/sports/mountain-biking/mitch-ropelato) 
