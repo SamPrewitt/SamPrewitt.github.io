@@ -98,7 +98,8 @@ Cannondale is a registered Trademark of Dorel Industries. This page may be used 
   
 <a href="#table-of-contents">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
-</a>
+</a>  
+  
 _______________________________________________
 For questions email <prewittsr@appstate.edu>
 or visit [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
