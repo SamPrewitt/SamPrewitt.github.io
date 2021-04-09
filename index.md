@@ -53,7 +53,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
 * Gap jumps
 * Drops
 
-[This](https://www.mtbr.com/threads/when-do-you-go-with-an-enduro-over-a-trail-bike.1058023/) MTB forum has more information and an ongoing discussion on the different types of terraign for trail / enduro bikes.
+[This](https://www.mtbr.com/threads/when-do-you-go-with-an-enduro-over-a-trail-bike.1058023/) MTB forum has more information and an ongoing discussion on the different types of terrain. 
     
 ### How to Order
 >**Step 1:** Go to [Cannondale's website](https://www.cannondale.com/en-it/bikes/mountain/trail-bikes/jekyll/jekyll-carbon-29-2?sku=c21200m10sm)
