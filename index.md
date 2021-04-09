@@ -83,7 +83,7 @@ Trail bikes have between 120 and 150mm of suspension travel. Intended terrain co
      * b) Pull both brakes and try to push the bike forwards & backwards.   
        
 If the bike is stable then you are ready to ride!   
-If not, go to your local bike shop from [Step 3](#how-to-order) of *How to Order* and find one.   
+If not, or have any other issues, contact to your local bike shop from [Step 3](#how-to-order) of *How to Order* and find one.   
  
 <a href="#intro-to-the-bike-guide">
   <img src="zxTgkLXiA.png" alt="Back to Top" width="35" height="35" alt="Back to Top">
