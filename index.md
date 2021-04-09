@@ -30,7 +30,7 @@ Part descriptions can be found [here](https://www.cannondale.com/en-it/bikes/mou
 ### Gemini Suspension
 The Gemini rear shock allows riders to switch between "hustle" and "flow" modes. Hustle is 120mm of travel. Flow is 150mm. 
 #### [Back to top](#table-of-contents)
-<img src="zxTgkLXiA.png" width="100" height="121" alt="Back to Top">
+<img src="zxTgkLXiA.png" width="50" height="50" alt="Back to Top">
 ![](zxTgkLXiA.png)
 ### Sizes
 The Jekyll is available in 4 sizes:
